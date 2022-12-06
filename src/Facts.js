@@ -25,7 +25,6 @@ const Facts = () => {
                                     <div className="count-box">
                                         <span
                                             ref={countUpRef}
-                                            className="purecounter"
                                             onShow={start}
                                         />
                                         <p><strong>Years</strong> of experience</p>
@@ -39,7 +38,7 @@ const Facts = () => {
                                     <div className="count-box">
                                         <span
                                             ref={countUpRef}
-                                            className="purecounter"
+                                            onShow={start}
                                         />
                                         <p><strong>Countries</strong></p>
                                     </div>
@@ -52,7 +51,7 @@ const Facts = () => {
                                     <div className="count-box">
                                         <span
                                             ref={countUpRef}
-                                            className="purecounter"
+                                            onShow={start}
                                         />
                                         <p><strong>Students</strong> got our certificates in 2022</p>
                                     </div>
@@ -65,7 +64,7 @@ const Facts = () => {
                                     <div className="count-box">
                                         <span
                                             ref={countUpRef}
-                                            className="purecounter"
+                                            onShow={start}
                                         />
                                         <p><strong>Institutions</strong> recognized our certificates</p>
                                     </div>
@@ -78,7 +77,7 @@ const Facts = () => {
                                     <div className="count-box">
                                         <span
                                             ref={countUpRef}
-                                            className="purecounter"
+                                            onShow={start}
                                         />
                                         <p><strong>Offices</strong>around the world</p>
                                     </div>
