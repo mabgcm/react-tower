@@ -7,10 +7,14 @@ const Team = () => {
     return (
         <section id="trainers" className="trainers">
             <div className="section-title" data-aos="fade-down">
-                <span>Our Teachers</span>
+                <span>Giáo viên của chúng tôi</span>
+                <h2>Giáo viên của chúng tôi</h2>
+                <h6>Những giáo viên bản ngữ (Anh, Mỹ, Canada,…) tràn đầy kinh nghiệm và khẩu âm chuẩn khiến những tiết học hào hứng, sôi động hơn.
+                </h6>
+                {/* <span>Our Teachers</span>
                 <h2>Our Teachers</h2>
                 <h6>Our experienced native teachers always delivers the correct pronunciation of English!
-                </h6>
+                </h6> */}
             </div>
             <div className="container" data-aos="fade-up">
 
@@ -22,14 +26,11 @@ const Team = () => {
                                 <h4>Mr. Walter</h4>
                                 <span>UK, 46</span>
                                 <p>
-                                    Mr Walter has been teaching Cambridge syllabus since 2013 for young learners and living in Bristol.
+                                    Thầy Walter đã dạy giáo trình Cambridge từ năm 2013 cho các bạn trẻ từ 6 đến 17 tuổi. Hiện tại thầy đang sống ở Bristol, Anh quốc.
                                 </p>
-                                {/* <div className="social">
-                                        <a href=""><i className="bi bi-twitter"></i></a>
-                                        <a href=""><i className="bi bi-facebook"></i></a>
-                                        <a href=""><i className="bi bi-instagram"></i></a>
-                                        <a href=""><i className="bi bi-linkedin"></i></a>
-                                    </div> */}
+                                {/* <p>
+                                    Mr Walter has been teaching Cambridge syllabus since 2013 for young learners and living in Bristol.
+                                </p> */}
                             </div>
                         </div>
                     </div>
@@ -41,14 +42,11 @@ const Team = () => {
                                 <h4>Ms Jhenson</h4>
                                 <span>UK, 32</span>
                                 <p>
-                                    Having spent the past 9 years teaching TESOL, Ms Jhenson has the Masters of Education degree and 4 years of expertise in online teaching.
+                                    Với 9 năm dạy TESOL, Cô Jhenson có bằng Thạc sĩ giáo dục ngôn ngữ Anh và 4 năm chuyên môn giảng dạy online.
                                 </p>
-                                {/* <div className="social">
-                                        <a href=""><i className="bi bi-twitter"></i></a>
-                                        <a href=""><i className="bi bi-facebook"></i></a>
-                                        <a href=""><i className="bi bi-instagram"></i></a>
-                                        <a href=""><i className="bi bi-linkedin"></i></a>
-                                    </div> */}
+                                {/* <p>
+                                    Having spent the past 9 years teaching TESOL, Ms Jhenson has the Masters of Education degree and 4 years of expertise in online teaching.
+                                </p> */}
                             </div>
                         </div>
                     </div>
@@ -60,14 +58,11 @@ const Team = () => {
                                 <h4>Mr Anderson</h4>
                                 <span>USA, 35</span>
                                 <p>
-                                    Mr Anderson has been living in Nashville, USA and teaching Cambridge curriculum since 2013.
+                                    Thầy Anderson hiện đang sinh sống ở Nashville, Mỹ và bắt đầu giảng dạy giáo trình Cambridge từ năm 2013.
                                 </p>
-                                {/* <div className="social">
-                                        <a href=""><i className="bi bi-twitter"></i></a>
-                                        <a href=""><i className="bi bi-facebook"></i></a>
-                                        <a href=""><i className="bi bi-instagram"></i></a>
-                                        <a href=""><i className="bi bi-linkedin"></i></a>
-                                    </div> */}
+                                {/* <p>
+                                    Mr Anderson has been living in Nashville, USA and teaching Cambridge curriculum since 2013.
+                                </p> */}
                             </div>
                         </div>
                     </div>

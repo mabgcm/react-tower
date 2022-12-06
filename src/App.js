@@ -1,6 +1,6 @@
 import './App.css';
 import AOS from 'aos';
-import Navbar from './Navbar';
+import Navbar from './Navbarr';
 import Home from './Home';
 import Intro from './Intro';
 import Details from './Details';

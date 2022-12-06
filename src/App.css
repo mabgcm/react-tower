@@ -62,6 +62,10 @@ section {
   box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
 }
 
+.header {
+  background: rgb(0, 35, 121);
+}
+
 #header .logo h1 {
   font-size: 28px;
   margin: 0;
@@ -719,6 +723,7 @@ section {
   padding: 0 30px;
   outline: none;
   cursor: pointer;
+  color: rgb(0, 35, 121);
 }
 
 .faq .faq-list .icon-help {
@@ -1020,21 +1025,23 @@ section {
 
 .stck1 {
   position: sticky;
-  top: 800px;
+  top: 80%;
   display: flex;
   justify-content: end;
   z-index: 1;
-  padding-right: 20px;
+  padding-right: 10px;
 }
 
 .stck2 {
   position: sticky;
-  top: 835px;
+  top: 85%;
   display: flex;
   justify-content: end;
   z-index: 1;
-  padding-right: 20px;
+  padding-right: 10px;
 }
+
+
 
 .external {
   margin-top: -140px;

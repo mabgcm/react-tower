@@ -42,14 +42,16 @@ function Contact() {
                     <Row>
                         <Col>
                             <Form.Group className="mb-0" controlId="formBasicName">
-                                <Form.Label>Student Name</Form.Label>
-                                <Form.Control size='sm' type="text" name='user_name' placeholder="Enter your name" />
+                                <Form.Label>Tên học viên</Form.Label>
+                                {/* <Form.Label>Student Name</Form.Label> */}
+                                <Form.Control size='sm' type="text" name='user_name' placeholder="Nhập tên của bạn" />
                             </Form.Group>
                         </Col>
                         <Col>
                             <Form.Group className="mb-1" controlId="formBasicEmail">
-                                <Form.Label>Email address</Form.Label>
-                                <Form.Control size='sm' type="email" name='user_email' placeholder="Enter your email" />
+                                <Form.Label>Địa chỉ email</Form.Label>
+                                {/* <Form.Label>Email address</Form.Label> */}
+                                <Form.Control size='sm' type="email" name='user_email' placeholder="Nhập email của bạn" />
                                 {/* <Form.Text className="text-muted">
                                     We'll never share your email with anyone else.
                                 </Form.Text> */}
@@ -58,18 +60,21 @@ function Contact() {
                     </Row>
 
                     <Form.Group className="mb-1" controlId="formBasicAddress">
-                        <Form.Label>Address</Form.Label>
-                        <Form.Control size='sm' type="text" name='address' placeholder="Enter your adress" />
+                        <Form.Label>Địa chỉ nhà</Form.Label>
+                        {/* <Form.Label>Address</Form.Label> */}
+                        <Form.Control size='sm' type="text" name='address' placeholder="Nhập địa chỉ của bạn" />
                     </Form.Group>
 
                     <Form.Group className="mb-1" controlId="formBasicTel">
-                        <Form.Label>Your Telephone Number</Form.Label>
-                        <Form.Control size='sm' type="tel" name='phone' placeholder="Enter your telephone number" />
+                        <Form.Label>Số điện thoại của bạn</Form.Label>
+                        {/* <Form.Label>Your Telephone Number</Form.Label> */}
+                        <Form.Control size='sm' type="tel" name='phone' placeholder="Nhập số điện thoại của bạn" />
                     </Form.Group>
 
                     <Form.Group className="mb-3" controlId="formBasicAge">
-                        <Form.Label>Student's Age</Form.Label>
-                        <Form.Control size='sm' type="number" name='age' placeholder="Enter your age" />
+                        <Form.Label>Tuổi học viên</Form.Label>
+                        {/* <Form.Label>Student's Age</Form.Label> */}
+                        <Form.Control size='sm' type="number" name='age' placeholder="Nhập độ tuổi của bạn" />
                     </Form.Group>
 
                     <div className="d-grid gap-2">

@@ -13,7 +13,11 @@ const Footer = () => {
                                 16192 Coastal Hwy <br />
                                 Lewes, DE 19958<br />
                                 United States <br /><br />
+                                Tầng 9 - 10, <br />
+                                05 Điện Biên Phủ,<br />
+                                Ba Đình, Hà Nội <br /><br />
                                 <strong>Phone:</strong> +1 (302) 645-7400<br />
+                                <strong>Phone:</strong> +84 (789) 375-250<br />
                                 <strong>Email:</strong> info@towercambridge.com<br />
                             </p>
                         </div>
@@ -22,13 +26,13 @@ const Footer = () => {
                             <h4>Browse Site</h4>
                             <ul>
                                 <li>
-                                    <i className="bx bx-chevron-right"></i> <a href="vn_index.html">Trang Chủ</a>
+                                    <i className="bx bx-chevron-right"></i> <a href="vn_index.html">Home</a>
                                 </li>
                                 <li>
-                                    <i className="bx bx-chevron-right"></i> <a href="vn_index.html#about">Về Chúng Tôi</a>
+                                    <i className="bx bx-chevron-right"></i> <a href="vn_index.html#about">How to Register</a>
                                 </li>
                                 <li>
-                                    <i className="bx bx-chevron-right"></i> <a href="vn_index.html#pricing">Học Phí</a>
+                                    <i className="bx bx-chevron-right"></i> <a href="vn_index.html#pricing">Teaching</a>
                                 </li>
                                 <li>
                                     <i className="bx bx-chevron-right"></i> <a href="vn_index.html#faq">Những câu hỏi thường gặp</a>

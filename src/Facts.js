@@ -21,11 +21,12 @@ const Facts = () => {
                             data-aos="fade-up"
                         >
                             <CountUp start={0} end={122} duration={1.1}>
-                                {({ countUpRef }) => (
+                                {({ countUpRef, start }) => (
                                     <div className="count-box">
                                         <span
                                             ref={countUpRef}
                                             className="purecounter"
+                                            onShow={start}
                                         />
                                         <p><strong>Years</strong> of experience</p>
                                     </div>
