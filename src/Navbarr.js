@@ -29,14 +29,14 @@ const Navbarr = () => {
                 <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav className="me-auto">
                         <Nav.Link href="/">Home</Nav.Link>
-                        <Nav.Link href="#features">How To Register</Nav.Link>
-                        <Nav.Link href="#teaching">Teaching</Nav.Link>
-                        <Nav.Link href="/">Certificates</Nav.Link>
-                        <Nav.Link href="/">Resources</Nav.Link>
+                        <Nav.Link href="/details#features">How To Register</Nav.Link>
+                        <Nav.Link href="/details#teaching">Teaching</Nav.Link>
+                        <Nav.Link href="/certificates">Certificates</Nav.Link>
+                        <Nav.Link href="/resources">Resources</Nav.Link>
                         <Nav.Link href="#faq">F.A.Q</Nav.Link>
                     </Nav>
                     <Nav>
-                        <Nav.Link href="#contact">Contact Us</Nav.Link>
+                        <Nav.Link href="contact">Contact Us</Nav.Link>
                         <Nav.Link eventKey={2} href="#memes">
                             Log In
                         </Nav.Link>
