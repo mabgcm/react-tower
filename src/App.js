@@ -27,11 +27,42 @@ import Pet from './Certificates/Pet';
 import Fce from './Certificates/Fce';
 import Button from 'react-bootstrap/Button';
 import Register from './Register';
+import { MessengerChat } from "react-messenger-chat-plugin";
 
 
 function App() {
 
   AOS.init();
+
+  <MessengerChat
+    pageId="105882105455733"
+    language="sv_SE"
+    themeColor={"#000000"}
+    bottomSpacing={300}
+    loggedInGreeting="loggedInGreeting"
+    loggedOutGreeting="loggedOutGreeting"
+    greetingDialogDisplay={"show"}
+    debugMode={true}
+    onMessengerShow={() => {
+      console.log("onMessengerShow");
+    }}
+    onMessengerHide={() => {
+      console.log("onMessengerHide");
+    }}
+    onMessengerDialogShow={() => {
+      console.log("onMessengerDialogShow");
+    }}
+    onMessengerDialogHide={() => {
+      console.log("onMessengerDialogHide");
+    }}
+    onMessengerMounted={() => {
+      console.log("onMessengerMounted");
+    }}
+    onMessengerLoad={() => {
+      console.log("onMessengerLoad");
+    }}
+  />,
+    document.getElementById("demo")
 
 
   return (
