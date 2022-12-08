@@ -43,9 +43,9 @@ function App() {
         pageId="105882105455733"
         language="vi_VN"
         themeColor={"#C81429"}
-        bottomSpacing={50}
-        loggedInGreeting="loggedInGreeting"
-        loggedOutGreeting="loggedOutGreeting"
+        bottomSpacing={25}
+        loggedInGreeting="Xin chào"
+        loggedOutGreeting="Xin chào"
         greetingDialogDisplay={"show"}
         debugMode={true}
         onMessengerShow={() => {
