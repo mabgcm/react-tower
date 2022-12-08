@@ -24,8 +24,8 @@ const Register = () => {
             <div className="container">
                 <div className="features" id="features">
                     <div className="section-title" data-aos="fade-down">
-                        <span>Cách đăng ký khóa học : </span>
-                        <h2>Cách đăng ký khóa học : </h2>
+                        <span>Cách đăng ký khóa học </span>
+                        <h2>Cách đăng ký khóa học </h2>
                         <h6>Register our lessons in 4 simple steps and start learning English from the comfor of your home.</h6>
                         {/* <span>how to register</span>
                         <h2>how to register</h2>
