@@ -41,11 +41,11 @@ function App() {
     <>
       <MessengerChat
         pageId="105882105455733"
-        language="en_US"
-        themeColor={"rgb(200, 20, 41)"}
-        bottomSpacing={50}
-        loggedInGreeting="Hello"
-        loggedOutGreeting="Bye"
+        language="sv_SE"
+        themeColor={"#000000"}
+        bottomSpacing={300}
+        loggedInGreeting="loggedInGreeting"
+        loggedOutGreeting="loggedOutGreeting"
         greetingDialogDisplay={"show"}
         debugMode={true}
         onMessengerShow={() => {
@@ -66,7 +66,7 @@ function App() {
         onMessengerLoad={() => {
           console.log("onMessengerLoad");
         }}
-      />
+      />,
       <Navbar />
       <div className="stck1"><Button className=' d-flex-inline justify-content-end' variant='warning' size='sm' href="/contact">Contact Us</Button></div>
       <div className="stck2"><Button variant='warning' size='sm' href="/register">How to Register</Button></div>
