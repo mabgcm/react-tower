@@ -42,10 +42,10 @@ function App() {
       <MessengerChat
         pageId="105882105455733"
         language="vi_VN"
-        themeColor={"rgb(0, 35, 121)"}
+        themeColor={"rgb(200, 20, 41)"}
         bottomSpacing={50}
-        loggedInGreeting=""
-        loggedOutGreeting="l"
+        loggedInGreeting="Hello"
+        loggedOutGreeting=""
         greetingDialogDisplay={"show"}
         debugMode={true}
         onMessengerShow={() => {
