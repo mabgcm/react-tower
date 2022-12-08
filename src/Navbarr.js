@@ -19,7 +19,7 @@ const Navbarr = () => {
 
     return (
 
-        <Navbar sticky='top' collapseOnSelect expand="lg" bg='' variant="dark" style={{ backgroundColor: "rgb(0, 35, 121)", marginBottom: '0' }}>
+        <Navbar sticky='top' collapseOnSelect expand="lg" bg='' variant="dark" style={{ backgroundColor: "rgb(0, 35, 121)", marginTop: '' }}>
             <Container >
                 <Navbar.Brand href="/" className='col-4' >
                     <div style={{ display: 'flex', alignItems: 'center', height: '50px' }}>
