@@ -41,11 +41,11 @@ function App() {
     <>
       <MessengerChat
         pageId="105882105455733"
-        language="vi_VN"
+        language="en_US"
         themeColor={"rgb(200, 20, 41)"}
         bottomSpacing={50}
         loggedInGreeting="Hello"
-        loggedOutGreeting=""
+        loggedOutGreeting="Bye"
         greetingDialogDisplay={"show"}
         debugMode={true}
         onMessengerShow={() => {
