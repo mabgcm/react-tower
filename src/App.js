@@ -25,6 +25,9 @@ import Flyers from './Certificates/Flyers';
 import Ket from './Certificates/Ket';
 import Pet from './Certificates/Pet';
 import Fce from './Certificates/Fce';
+import Button from 'react-bootstrap/Button';
+import Register from './Register';
+
 
 function App() {
 
@@ -34,10 +37,13 @@ function App() {
   return (
     <>
       <Navbar />
+      <div className="stck1"><Button className=' d-flex-inline justify-content-end' variant='warning' size='sm' href="/contact">Contact Us</Button></div>
+      <div className="stck2"><Button variant='warning' size='sm' href="/register">How to Register</Button></div>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path='intro' element={<Intro />} />
         <Route path='details' element={<Details />} />
+        <Route path='register' element={<Register />} />
         <Route path='testimonials' element={<Testimonials />} />
         <Route path='facts' element={<Facts />} />
         <Route path='team' element={<Team />} />

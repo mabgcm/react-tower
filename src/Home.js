@@ -11,21 +11,23 @@ import Team from './Team';
 import Faq from './Faq';
 import Cta from './Cta';
 import Button from 'react-bootstrap/Button';
+import Register from './Register';
 
 const Home = () => {
 
     AOS.init();
 
     return (
-        <div>
-            <div className="stck1"><Button className=' d-flex-inline justify-content-end' variant='warning' size='sm' href="#contact">Contact Us</Button></div>
-            <div className="stck2"><Button variant='warning' size='sm' href="#features">How to Register</Button></div>
+        <div className='intro'>
+            {/* <div className="stck1"><Button className=' d-flex-inline justify-content-end' variant='warning' size='sm' href="#contact">Contact Us</Button></div>
+            <div className="stck2"><Button variant='warning' size='sm' href="#features">How to Register</Button></div> */}
             <div className='mt-0' id="main">
                 <Intro />
                 <Facts />
                 <Testimonials />
                 <Cta />
                 <Details />
+                <Register />
                 <Team />
                 <Cta />
                 <Faq />
