@@ -61,8 +61,7 @@ function App() {
     onMessengerLoad={() => {
       console.log("onMessengerLoad");
     }}
-  />,
-    document.getElementById("demo")
+  />
 
 
   return (
