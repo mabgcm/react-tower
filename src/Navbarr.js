@@ -10,10 +10,11 @@ import Image from 'react-bootstrap/Image'
 const Navbarr = () => {
 
     const imgstyle = {
-        height: '60px',
+        height: '80px',
+        width: '170px',
         borderRadius: '0',
         position: 'relative',
-        marginTop: '0',
+        marginTop: '15px',
     }
 
     return (
@@ -21,8 +22,8 @@ const Navbarr = () => {
         <Navbar sticky='top' collapseOnSelect expand="lg" bg='' variant="dark" style={{ backgroundColor: "rgb(0, 35, 121)", marginBottom: '0' }}>
             <Container >
                 <Navbar.Brand href="/" className='col-4' >
-                    <div style={{ height: '50px' }}>
-                        <Image src={TowerLogo} style={imgstyle} alt="Tower Cambridge" className="img-fluid" />
+                    <div style={{ display: 'flex', alignItems: 'center', height: '50px' }}>
+                        <Image src={TowerLogo} style={imgstyle} alt="Tower Cambridge" className="logo img-fluid" />
                     </div>
                 </Navbar.Brand>
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
