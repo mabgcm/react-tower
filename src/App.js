@@ -43,7 +43,7 @@ function App() {
         pageId="105882105455733"
         language="vi_VN"
         themeColor={"#C81429"}
-        bottomSpacing={25}
+        bottomSpacing={20}
         loggedInGreeting="Xin chào"
         loggedOutGreeting="Xin chào"
         greetingDialogDisplay={"show"}
@@ -66,7 +66,7 @@ function App() {
         onMessengerLoad={() => {
           console.log("onMessengerLoad");
         }}
-      />,
+      />
       <Navbar />
       <div className="stck1"><Button className=' d-flex-inline justify-content-end' variant='warning' size='sm' href="/contact">Contact Us</Button></div>
       <div className="stck2"><Button variant='warning' size='sm' href="/register">How to Register</Button></div>
