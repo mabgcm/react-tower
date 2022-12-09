@@ -21,7 +21,7 @@ const Navbarr = () => {
 
         <Navbar sticky='top' collapseOnSelect expand="lg" bg='' variant="dark" style={{ backgroundColor: "rgb(0, 35, 121)", marginTop: '' }}>
             <Container >
-                <Navbar.Brand href="/" className='col-2' >
+                <Navbar.Brand href="/" className='brandlogo col-sm-6 col-md-6 col-lg-2' >
                     <div style={{ display: 'flex', alignItems: 'center', height: '50px' }}>
                         <Image src={TowerLogo} style={imgstyle} alt="Tower Cambridge" className="logo img-fluid" />
                     </div>
