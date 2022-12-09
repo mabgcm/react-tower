@@ -6,7 +6,6 @@ import bg2 from './img/bg2.jpg'
 import bg3 from './img/bg3.jpg'
 import head from './img/headtext.png'
 import head2 from './img/headtext2.png'
-import { Link } from 'react-router-dom';
 
 const Intro = () => {
     const opts = {

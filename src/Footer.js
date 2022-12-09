@@ -26,20 +26,16 @@ const Footer = () => {
                             <h4>Browse Site</h4>
                             <ul>
                                 <li>
-                                    <i className="bx bx-chevron-right"></i> <a href="vn_index.html">Home</a>
+                                    <i className="bx bx-chevron-right"></i> <a href="/">Home</a>
                                 </li>
                                 <li>
-                                    <i className="bx bx-chevron-right"></i> <a href="vn_index.html#about">How to Register</a>
+                                    <i className="bx bx-chevron-right"></i> <a href="register">Hướng Dẫn Đăng Ký</a>
                                 </li>
                                 <li>
-                                    <i className="bx bx-chevron-right"></i> <a href="vn_index.html#pricing">Teaching</a>
+                                    <i className="bx bx-chevron-right"></i> <a href="details">Phương Pháp Giảng Dạy</a>
                                 </li>
                                 <li>
-                                    <i className="bx bx-chevron-right"></i> <a href="vn_index.html#faq">Những câu hỏi thường gặp</a>
-                                </li>
-                                <li>
-                                    <i className="bx bx-chevron-right"></i>
-                                    <a href="#">Điều khoản dịch vụ</a>
+                                    <i className="bx bx-chevron-right"></i> <a href="faq">Những câu hỏi thường gặp</a>
                                 </li>
                             </ul>
                         </div>
@@ -49,23 +45,27 @@ const Footer = () => {
                             <ul>
                                 <li>
                                     <i className="bx bx-chevron-right"></i>
-                                    <a href="starters.html">Starters</a>
+                                    <a href="/certificates/starters">Starters</a>
                                 </li>
                                 <li>
                                     <i className="bx bx-chevron-right"></i>
-                                    <a href="movers.html">Movers</a>
+                                    <a href="/certificates/movers">Movers</a>
                                 </li>
                                 <li>
                                     <i className="bx bx-chevron-right"></i>
-                                    <a href="flyers.html">Flyers</a>
+                                    <a href="/certificates/flyers">Flyers</a>
                                 </li>
                                 <li>
                                     <i className="bx bx-chevron-right"></i>
-                                    <a href="ket.html">Ket</a>
+                                    <a href="/certificates/ket">KET</a>
                                 </li>
                                 <li>
                                     <i className="bx bx-chevron-right"></i>
-                                    <a href="pet.html">Pet</a>
+                                    <a href="/certificates/pet">PET</a>
+                                </li>
+                                <li>
+                                    <i className="bx bx-chevron-right"></i>
+                                    <a href="/certificates/fce">FCE</a>
                                 </li>
                             </ul>
                         </div>
@@ -76,11 +76,11 @@ const Footer = () => {
                                 Theo dõi chúng tôi qua các nền tảng xã hội:
                             </p>
                             <div className="social-links mt-3">
-                                <a href="https://www.facebook.com/anhngucambridge101" target="_blank" className="facebook"
+                                <a href="https://www.facebook.com/anhngucambridge101" target="__blank" className="facebook"
                                 ><FaFacebookF /></a>
 
 
-                                <a href="https://www.linkedin.com/company/tower-cambridge" target="_blank" className="linkedin"
+                                <a href="https://www.linkedin.com/company/tower-cambridge" target="__blank" className="linkedin"
                                 ><FaLinkedinIn />
                                 </a>
                             </div>

@@ -34,8 +34,8 @@ function Contact() {
             <div className="col-1"></div>
             <div className="col-10">
                 <div className="section-title" data-aos="fade-down">
-                    <span>Contact Us</span>
-                    <h2>Contact Us</h2>
+                    <span>LIÊN HỆ VỚI CHÚNG TÔI</span>
+                    <h2>LIÊN HỆ VỚI CHÚNG TÔI</h2>
                     <h6>Hệ thống trực tuyến của chúng tôi đảm bảo giúp người học thành công.</h6>
                 </div>
                 <Form ref={form} onSubmit={sendEmail}>

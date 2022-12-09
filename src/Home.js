@@ -10,7 +10,6 @@ import Team from './Team';
 // import Price from './Price';
 import Faq from './Faq';
 import Cta from './Cta';
-import Button from 'react-bootstrap/Button';
 import Register from './Register';
 
 const Home = () => {
