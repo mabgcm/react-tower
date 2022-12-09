@@ -26,7 +26,7 @@ const Register = () => {
                     <div className="section-title" data-aos="fade-down">
                         <span>Cách đăng ký khóa học </span>
                         <h2>Cách đăng ký khóa học </h2>
-                        <h6>Register our lessons in 4 simple steps and start learning English from the comfor of your home.</h6>
+                        <h6>Đăng ký khóa học của chúng tôi với 4 bước đơn giản, và sau đó bắt đầu học tiếng Anh với sự thoải mái, tiện nghi tại nhà của bạn.</h6>
                         {/* <span>how to register</span>
                         <h2>how to register</h2>
                         <h6>Register our lessons in 4 simple steps and start learning English from the comfor of your home.</h6> */}
@@ -146,7 +146,7 @@ const Register = () => {
                                         Our academic team will arrange a schedule according to your free time, then you can start your lessons.
                                     </h4> */}
                                     <p className="fst-italic">
-                                        According to the class availability, student available schedule and the student level we will arrange your lesson schedule and you can start learning English with us!
+                                        Dựa theo số chỗ trống trong lớp học, thời gian học và trình độ của học sinh đã đăng ký, chúng tôi sẽ sắp xếp lịch học phù hợp và bạn có thể bắt đầu học tiếng Anh với chúng tôi.
                                     </p>
                                     {/* <p className="fst-italic">
                                         According to the class availability, student available schedule and the student level we will arrange your lesson schedule and you can start learning English with us!

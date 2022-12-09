@@ -1026,7 +1026,7 @@ section {
 
 .stck1 {
   position: sticky;
-  top: 80%;
+  top: 84%;
   display: flex;
   justify-content: end;
   z-index: 1;
@@ -1035,7 +1035,7 @@ section {
 
 .stck2 {
   position: sticky;
-  top: 85%;
+  top: 88%;
   display: flex;
   justify-content: end;
   z-index: 1;

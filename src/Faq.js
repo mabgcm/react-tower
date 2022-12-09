@@ -19,7 +19,7 @@ const Faq = () => {
                 <div className="section-title" data-aos="fade-down">
                     <span>F.A.Q</span>
                     <h2>F.A.Q</h2>
-                    <p>Những câu hỏi thường gặps</p>
+                    <p>Những câu hỏi thường gặp</p>
                 </div>
 
                 <div className="faq-list">

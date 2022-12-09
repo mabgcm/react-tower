@@ -68,8 +68,8 @@ function App() {
         }}
       />
       <Navbar />
-      <div className="stck1"><Button className=' d-flex-inline justify-content-end' variant='warning' size='sm' href="/contact">Contact Us</Button></div>
-      <div className="stck2"><Button variant='warning' size='sm' href="/register">How to Register</Button></div>
+      <div className="stck1"><Button className=' d-flex-inline justify-content-end' variant='warning' size='sm' href="/contact" style={{ textTransform: 'capitalize' }} >Liên Hệ Với Chúng Tôi</Button></div>
+      <div style={{ textTransform: 'capitalize' }} className="stck2"><Button variant='warning' size='sm' href="/register">Hướng dẫn đăng ký</Button></div>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path='intro' element={<Intro />} />

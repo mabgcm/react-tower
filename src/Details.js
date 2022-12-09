@@ -41,7 +41,7 @@ const Details = () => {
                         <div className="icon-box" data-aos="fade-up" data-aos-delay="100">
                             <h3>Kiểm tra định kỳ</h3>
                             <h6>
-                                Hai tuần một lần, người học làm bài kiểm tra thử để đánh giá sự tiến bộ của họ. Các bài kiểm tra định kỳ cũng giúp học sinh sẵn sàng cho bài kiểm tra Chứng chỉ Cambridge chính thức vào cuối khóa học.
+                                Hai tuần một lần, học viên sẽ làm bài kiểm tra thử để đánh giá sự tiến bộ của họ. Các bài kiểm tra định kỳ cũng giúp học sinh sẵn sàng cho bài kiểm tra Chứng chỉ Cambridge chính thức vào cuối khóa học.
                             </h6>
                         </div>
                     </div>

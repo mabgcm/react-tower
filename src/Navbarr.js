@@ -29,17 +29,17 @@ const Navbarr = () => {
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                 <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav className="me-auto">
-                        <Nav.Link href="/">Home</Nav.Link>
-                        <Nav.Link href="register">How To Register</Nav.Link>
-                        <Nav.Link href="details">Teaching</Nav.Link>
-                        <Nav.Link href="/certificates">Certificates</Nav.Link>
-                        <Nav.Link href="/resources">Resources</Nav.Link>
+                        <Nav.Link href="/">Trang Chủ</Nav.Link>
+                        <Nav.Link href="register" style={{ textTransform: 'capitalize' }}>Hướng Dẫn Đăng Ký</Nav.Link>
+                        <Nav.Link href="details">Phương Pháp Giảng Dạy</Nav.Link>
+                        <Nav.Link href="/certificates">Các Chứng Chỉ Cambridge</Nav.Link>
+                        <Nav.Link href="/resources">Tài Liệu </Nav.Link>
                         <Nav.Link href="/faq">F.A.Q</Nav.Link>
                     </Nav>
                     <Nav>
                         <Nav.Link href="contact">Contact Us</Nav.Link>
                         <Nav.Link href="https://towercambridge01.ayotree.com/HomepageTemplateMaster/Login/default.aspx?menu=&submenu=&MasterTeacherID=36344">
-                            Log In
+                            Đăng Nhập
                         </Nav.Link>
                     </Nav>
                 </Navbar.Collapse>

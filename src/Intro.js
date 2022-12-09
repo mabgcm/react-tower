@@ -76,9 +76,9 @@ const Intro = () => {
                     <div
                         className="col-12 col-xl-5 content d-flex pb-4 flex-column justify-content-center"
                         data-aos="fade-right">
-                        <h3 className='text-center'>Cambridge certificates open the doors to your children in their future lives.</h3>
-                        <h3 className='text-center'>There’s no fail in Cambridge Exams.</h3>
-                        <h3 className='text-center'>Now you can access the quality of Cambridge anywhere in Vietnam</h3>
+                        <h3 className='text-center'>Chứng chỉ Cambridge mở các cánh cửa cho con của bạn trong tương lai.</h3>
+                        <h3 className='text-center'>Sẽ không có thất bại trong các bài kiểm tra của Cambridge.</h3>
+                        <h3 className='text-center'>Ngay bây giờ bạn có thể tham gia hệ thống giáo dục đào tạo chất lượng của Cambridge tại bất kỳ nơi nào ở Việt Nam.</h3>
                         {/* <h3 className='text-center'>Cambridge certificates open the doors to your children in their future lives.</h3>
                         <h3 className='text-center'>There’s no fail in Cambridge Exams.</h3>
                         <h3 className='text-center'>Now you can access the quality of Cambridge anywhere in Vietnam</h3> */}

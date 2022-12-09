@@ -1,5 +1,4 @@
 import React from 'react'
-import CountUp from 'react-countup';
 
 const Facts = () => {
 
@@ -20,71 +19,26 @@ const Facts = () => {
                             className="col-lg-3 col-md-6 d-md-flex align-items-md-stretch"
                             data-aos="fade-up"
                         >
-                            <CountUp start={0} end={122} duration={1.1}>
-                                {({ countUpRef, start }) => (
-                                    <div className="count-box">
-                                        <span
-                                            ref={countUpRef}
-                                            onShow={start}
-                                        />
-                                        <p><strong>Years</strong> of experience</p>
-                                    </div>
-                                )}
-
-                            </CountUp>
-
-                            <CountUp start={0} end={170} duration={1.1}>
-                                {({ countUpRef, start }) => (
-                                    <div className="count-box">
-                                        <span
-                                            ref={countUpRef}
-                                            onShow={start}
-                                        />
-                                        <p><strong>Countries</strong></p>
-                                    </div>
-                                )}
-
-                            </CountUp>
-
-                            <CountUp start={0} end={8000000} duration={1.1}>
-                                {({ countUpRef, start }) => (
-                                    <div className="count-box">
-                                        <span
-                                            ref={countUpRef}
-                                            onShow={start}
-                                        />
-                                        <p><strong>Students</strong> got our certificates in 2022</p>
-                                    </div>
-                                )}
-
-                            </CountUp>
-
-                            <CountUp start={0} end={25000} duration={1.1}>
-                                {({ countUpRef, start }) => (
-                                    <div className="count-box">
-                                        <span
-                                            ref={countUpRef}
-                                            onShow={start}
-                                        />
-                                        <p><strong>Institutions</strong> recognized our certificates</p>
-                                    </div>
-                                )}
-
-                            </CountUp>
-
-                            <CountUp start={0} end={57} duration={1.1}>
-                                {({ countUpRef, start }) => (
-                                    <div className="count-box">
-                                        <span
-                                            ref={countUpRef}
-                                            onShow={start}
-                                        />
-                                        <p><strong>Offices</strong>around the world</p>
-                                    </div>
-                                )}
-
-                            </CountUp>
-
+                            <div className="count-box">
+                                <span>122</span>
+                                <p><strong>Years</strong> of experience</p>
+                            </div>
+                            <div className="count-box">
+                                <span>170</span>
+                                <p><strong>Countries</strong></p>
+                            </div>
+                            <div className="count-box">
+                                <span>8.000.000</span>
+                                <p><strong>Students</strong> got our certificates in 2022</p>
+                            </div>
+                            <div className="count-box">
+                                <span>25.000</span>
+                                <p><strong>Institutions</strong> recognized our certificates</p>
+                            </div>
+                            <div className="count-box">
+                                <span>57</span>
+                                <p><strong>Offices</strong> around the world</p>
+                            </div>
                         </div>
 
                     </div>
