@@ -35,10 +35,10 @@ const Navbarr = () => {
                         <Nav.Link href="/certificates">Các Chứng Chỉ</Nav.Link>
                         <Nav.Link href="/resources">Tài Liệu </Nav.Link>
                         <Nav.Link href="/faq">F.A.Q</Nav.Link>
+                        <Nav.Link href="contact">Contact Us</Nav.Link>
                     </Nav>
                     <Nav>
-                        <Nav.Link href="contact">Contact Us</Nav.Link>
-                        <Nav.Link href="https://towercambridge01.ayotree.com/HomepageTemplateMaster/Login/default.aspx?menu=&submenu=&MasterTeacherID=36344">
+                        <Nav.Link id='signin' href="https://towercambridge01.ayotree.com/HomepageTemplateMaster/Login/default.aspx?menu=&submenu=&MasterTeacherID=36344">
                             Đăng Nhập
                         </Nav.Link>
                     </Nav>
