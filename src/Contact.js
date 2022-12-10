@@ -10,7 +10,7 @@ import 'react-toastify/dist/ReactToastify.css';
 function Contact() {
 
     const notify = () =>
-        toast.success("Message sent successfully!", {
+        toast.success("Tin nhắn đã được gửi thành công!", {
             position: toast.POSITION.TOP_RIGHT
         });
 
