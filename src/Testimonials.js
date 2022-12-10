@@ -11,9 +11,9 @@ const Testimonials = () => {
     return (
         <section>
             <div className="section-title" data-aos="fade-down">
-                <span>học viên của Tower Cambridge đã thành công ở nhiều nơi trên thế giới, và sẽ còn nhiều người hơn nữa !</span>
-                <h2>học viên của Tower Cambridge đã thành công ở nhiều nơi trên thế giới, và sẽ còn nhiều người hơn nữa !</h2>
-                {/* <h6>Hệ thống trực tuyến của chúng tôi đảm bảo giúp người học thành công.</h6> */}
+                <span>những chia sẻ từ các học viên thành đạt</span>
+                <h2>những chia sẻ từ các học viên thành đạt</h2>
+                <h6>học viên của Tower Cambridge đã thành công ở nhiều nơi trên thế giới, và sẽ còn nhiều người hơn nữa !</h6>
             </div>
             <div className="container">
                 <div className="row">
