@@ -45,8 +45,8 @@ function App() {
         language="vi_VN"
         themeColor={"#C81429"}
         bottomSpacing={20}
-        loggedInGreeting="Xin chào"
-        loggedOutGreeting="Xin chào và cảm ơn bạn đã liên hệ với chúng tôi! Chúng tôi có thể giúp gì cho bạn hôm nay?"
+        loggedInGreeting="Xin chào và cảm ơn bạn đã liên hệ với chúng tôi! Chúng tôi có thể giúp gì cho bạn hôm nay?"
+        loggedOutGreeting=""
         greetingDialogDisplay={"show"}
         debugMode={true}
         onMessengerShow={() => {
