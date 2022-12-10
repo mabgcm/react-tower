@@ -21,23 +21,23 @@ const Facts = () => {
                         >
                             <div className="count-box">
                                 <span>122</span>
-                                <p><strong>Years</strong> of experience</p>
+                                <p><strong>Năm</strong> kinh nghiệm</p>
                             </div>
                             <div className="count-box">
                                 <span>170</span>
-                                <p><strong>Countries</strong></p>
+                                <p><strong>Quốc Gia</strong></p>
                             </div>
                             <div className="count-box">
                                 <span>8.000.000</span>
-                                <p><strong>Students</strong> got our certificates in 2022</p>
+                                <p><strong>Học Viên</strong> đã nhận chứng chỉ trong năm 2022</p>
                             </div>
                             <div className="count-box">
                                 <span>25.000</span>
-                                <p><strong>Institutions</strong> recognized our certificates</p>
+                                <p><strong>Tổ Chức</strong> trên thế giới công nhận chứng chỉ</p>
                             </div>
                             <div className="count-box">
                                 <span>57</span>
-                                <p><strong>Offices</strong> around the world</p>
+                                <p><strong>hi Nhánh</strong> trên toàn thế giới</p>
                             </div>
                         </div>
 
