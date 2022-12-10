@@ -45,7 +45,7 @@ function App() {
         language="vi_VN"
         themeColor={"#C81429"}
         bottomSpacing={20}
-        loggedInGreeting="Xin chào và cảm ơn bạn đã liên hệ với chúng tôi! Chúng tôi có thể giúp gì cho bạn hôm nay?"
+        loggedInGreeting="Cảm ơn bạn đã liên hệ Tower Cambridge! Chúng tôi có thể giúp gì cho bạn?"
         loggedOutGreeting=""
         greetingDialogDisplay={"show"}
         debugMode={true}
