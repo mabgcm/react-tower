@@ -37,7 +37,7 @@ const Facts = () => {
                             </div>
                             <div className="count-box">
                                 <span>57</span>
-                                <p><strong>hi Nhánh</strong> trên toàn thế giới</p>
+                                <p><strong>Chi Nhánh</strong> trên toàn thế giới</p>
                             </div>
                         </div>
 
