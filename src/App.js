@@ -46,7 +46,7 @@ function App() {
         themeColor={"#C81429"}
         bottomSpacing={20}
         loggedInGreeting="Xin chào"
-        loggedOutGreeting="Xin chào"
+        loggedOutGreeting="Xin chào! Chúng tôi luôn sẵn sàng trả lời các câu hỏi của bạn."
         greetingDialogDisplay={"show"}
         debugMode={true}
         onMessengerShow={() => {
