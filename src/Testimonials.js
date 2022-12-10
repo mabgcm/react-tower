@@ -11,8 +11,8 @@ const Testimonials = () => {
     return (
         <section>
             <div className="section-title" data-aos="fade-down">
-                <span>Testimonials</span>
-                <h2>Testimonials</h2>
+                <span>học viên của Tower Cambridge đã thành công ở nhiều nơi trên thế giới, và sẽ còn nhiều người hơn nữa !</span>
+                <h2>học viên của Tower Cambridge đã thành công ở nhiều nơi trên thế giới, và sẽ còn nhiều người hơn nữa !</h2>
                 {/* <h6>Hệ thống trực tuyến của chúng tôi đảm bảo giúp người học thành công.</h6> */}
             </div>
             <div className="container">

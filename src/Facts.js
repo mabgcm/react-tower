@@ -8,9 +8,9 @@ const Facts = () => {
                 <div className="container">
                     <div className="section-title">
                         <div className="section-title" data-aos="fade-down">
-                            <span>facts</span>
-                            <h2>facts</h2>
-                            {/* <h6>Hệ thống trực tuyến của chúng tôi đảm bảo giúp người học thành công.</h6> */}
+                            <span>thành tích của chúng tôi</span>
+                            <h2>thành tích của chúng tôi</h2>
+                            <h6>Chúng tôi rất tự hào về thành quả của mình trên khắp thế giới.</h6>
                         </div>
                     </div>
 
@@ -29,7 +29,7 @@ const Facts = () => {
                             </div>
                             <div className="count-box">
                                 <span>8.000.000</span>
-                                <p><strong>Học Viên</strong> đã nhận chứng chỉ trong năm 2022</p>
+                                <p><strong>Học Viên</strong> đã nhận chứng chỉ trong năm 2021</p>
                             </div>
                             <div className="count-box">
                                 <span>25.000</span>
