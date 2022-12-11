@@ -26,14 +26,14 @@ const Details = () => {
                             </h6>
                         </div>
                         <div className="icon-box" data-aos="fade-up" data-aos-delay="100">
-                            <h3>Effective Online Learning Method</h3>
+                            <h3>Phương pháp học Online hiệu quả</h3>
                             <h6>
                                 Với tiếng anh Tower Cambridge,
                                 trẻ em sẽ được học tiếng anh một cách thực tế và thú vị. Những tiết học được tương tác, đa dạng và dựa trên các hoạt động. Học tập là một phần thưởng đầy thú vị. Trẻ em sẽ tập trung vào những tình huống đời thường, phát triển những kỹ năng để thành công trong lớp học và ngoài cuộc sống.
                             </h6>
                         </div>
                         <div className="icon-box" data-aos="fade-up" data-aos-delay="100">
-                            <h3>Tracking the learning after lessons</h3>
+                            <h3>Theo dõi tiến độ học tập sau những buổi học</h3>
                             <h6>
                                 Sau mỗi bài học trực tiếp sẽ có báo cáo về học sinh, bao gồm tương tác trong bài học và tham gia hoạt động được gửi đến cha mẹ học sinh. Do đó, những trở ngại đối với sự thành công của học sinh sẽ được xác định và loại bỏ.
                             </h6>
