@@ -7,7 +7,7 @@ const Details = () => {
 
 
     return (
-        <section id="teaching" className="services intro">
+        <section id="teaching" className="services intro mt-1">
             <div className="container">
                 <div className="section-title" data-aos="fade-down">
                     <span>Phương pháp giảng dạy của chúng tôi</span>

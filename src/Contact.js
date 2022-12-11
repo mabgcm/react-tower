@@ -30,7 +30,7 @@ function Contact() {
 
     return (
 
-        <div id='contact' className="row d-flex align-items-center justify-content-center">
+        <div id='contact' className="row d-flex align-items-center justify-content-center mt-2 mb-5">
             <div className="col-1"></div>
             <div className="col-10">
                 <div className="section-title" data-aos="fade-down">
@@ -79,7 +79,7 @@ function Contact() {
 
                     <div className="d-grid gap-2">
                         <Button id='signin' onClick={notify} variant="success" type="submit">
-                            Contact Us
+                            Đăng Ký
                         </Button>
                         <ToastContainer />
                     </div>
