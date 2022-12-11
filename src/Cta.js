@@ -2,7 +2,7 @@ import React from 'react'
 
 const Cta = () => {
     return (
-        <section id="cta" className="cta">
+        <section id="cta" className="cta mb-5">
             <div className="container">
                 <div className="text-center" data-aos="zoom-in">
                     <h3>Hãy học tiếng Anh tại Tower Cambridge và cùng nhau đặt nền móng vững chắc cho tương lai của bạn !</h3>
