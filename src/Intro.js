@@ -28,7 +28,7 @@ const Intro = () => {
                     <div
                         className="col-12 col-xl-5 content d-flex pb-4 flex-column justify-content-center"
                         data-aos="fade-right">
-                        <h3 className='text-center'>Trong năm 2022,</h3>
+                        <h3 className='text-center'>Trong năm 2022</h3>
                         <h3 className='text-center'>có hơn 8 triệu học viên</h3>
                         <h3 className='text-center'>tại hơn 170 quốc gia</h3>
                         <h3 className='text-center'>đã chứng minh khả năng tiếng Anh của mình với thế  giới</h3>
