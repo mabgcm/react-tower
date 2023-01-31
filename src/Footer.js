@@ -16,7 +16,7 @@ const Footer = () => {
                                 Tầng 9 - 10, <br />
                                 05 Điện Biên Phủ,<br />
                                 Ba Đình, Hà Nội <br /><br />
-                                <strong>Phone:</strong> +1 (302) 645-7400<br />
+                                <strong>Phone:</strong> +1 (506) 349-3512<br />
                                 <strong>Phone:</strong> +84 (789) 375-250<br />
                                 <strong>Email:</strong> info@towercambridge.com<br />
                             </p>
@@ -89,7 +89,7 @@ const Footer = () => {
                 </div>
             </div>
 
-            <div className="container py-4">
+            {/* <div className="container py-4">
                 <div className="copyright">
                     &copy; Copyright <strong><span>TARB LLC</span></strong
                     >. All Rights Reserved
@@ -97,7 +97,7 @@ const Footer = () => {
                 <div className="credits">
                     Designed by <a href="https://mabgcm.com/">M.A.Bugucam</a>
                 </div>
-            </div>
+            </div> */}
         </div >
     )
 }
