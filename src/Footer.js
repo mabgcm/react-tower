@@ -16,7 +16,7 @@ const Footer = () => {
                                 Tầng 9 - 10, <br />
                                 05 Điện Biên Phủ,<br />
                                 Ba Đình, Hà Nội <br /><br />
-                                <strong>Phone:</strong> +1 (506) 349-3512<br />
+                                {/* <strong>Phone:</strong> +1 (506) 349-3512<br /> */}
                                 <strong>Phone:</strong> +84 (789) 375-250<br />
                                 <strong>Email:</strong> info@towercambridge.com<br />
                             </p>
