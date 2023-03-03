@@ -30,7 +30,7 @@ const Navbarr = () => {
                 <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav className="me-auto">
                         <Nav.Link href="/">Trang Chủ</Nav.Link>
-                        <Nav.Link href="https://towercambridge01.ayotree.com/StudentRegisterSchool.aspx?MasterTeacherID=36344&UserType=parent&templateType=crm&CampusID=8548" style={{ textTransform: 'capitalize' }}>Đăng Ký</Nav.Link>
+                        {/* <Nav.Link href="https://towercambridge01.ayotree.com/StudentRegisterSchool.aspx?MasterTeacherID=36344&UserType=parent&templateType=crm&CampusID=8548" style={{ textTransform: 'capitalize' }}>Đăng Ký</Nav.Link> */}
                         <Nav.Link href="details">Phương Pháp Giảng Dạy</Nav.Link>
                         <Nav.Link href="/certificates">Các Chứng Chỉ</Nav.Link>
                         <Nav.Link href="/resources">Tài Liệu </Nav.Link>
