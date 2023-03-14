@@ -109,7 +109,7 @@ const Intro = () => {
                         data-aos="fade-right">
                         <h3 className='text-center'>Chúng tôi luôn nắm được điểm mạnh của học viên để tạo niềm cảm hứng và hơn hết, điểm yếu của học viên cũng được chỉ ra rõ ràng để tập trung cải thiện.</h3>
                         <h4 className='text-center'>Những học viên của Tower Cambridge luôn luôn tràn đầy tự tin khi giao tiếp tiếng Anh với bạn bè, người thân, hay với người lạ trong cuộc sống thường ngày.</h4>
-                        <Link to="http://click.linksynergy.com/fs-bin/click?id=bZNGlZk1qGY&offerid=311675&type=3&subid=0&LSNSUBSITE=LSNSUBSITE" className='text-center mt-5'>Rakuten Advertising Welcome Program</Link><img style={{ border: 0, width: 1, height: 1 }} src="http://ad.linksynergy.com/fs-bin/show?id=bZNGlZk1qGY&bids=311675&type=3&subid=0" />
+
 
                     </div>
                 </div>
