@@ -39,7 +39,7 @@ const Footer = () => {
                                     <i className="bx bx-chevron-right"></i> <a href="faq">Những câu hỏi thường gặp</a>
                                 </li>
 
-                                <Link to="http://click.linksynergy.com/fs-bin/click?id=bZNGlZk1qGY&offerid=311675&type=3&subid=0&LSNSUBSITE=LSNSUBSITE" >Rakuten Advertising Welcome Program</Link><img style={{ border: 0, width: 1, height: 1 }} src="http://ad.linksynergy.com/fs-bin/show?id=bZNGlZk1qGY&bids=311675&type=3&subid=0" />
+
 
 
                             </ul>
@@ -89,6 +89,7 @@ const Footer = () => {
                                 ><FaLinkedinIn />
                                 </a>
                             </div>
+                            <div><a target='new' href="https://click.linksynergy.com/fs-bin/click?id=yo*k*ZdsEpY&offerid=311675.10000128&subid=0&type=4&LSNSUBSITE=LSNSUBSITE"><img border="0" alt="Rakuten Marketing Welcome Program" src="https://ad.linksynergy.com/fs-bin/show?id=yo*k*ZdsEpY&bids=311675.10000128&subid=0&type=4&gridnum=0" /></a></div>
                         </div>
                     </div>
                 </div>
