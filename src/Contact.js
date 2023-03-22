@@ -19,7 +19,7 @@ function Contact() {
     const sendEmail = (e) => {
         e.preventDefault();
 
-        emailjs.sendForm('service_syzdxbj', 'template_4tu90yn', form.current, 'yQ1T7k5-aRRbj9Mc7')
+        emailjs.sendForm('service_osddpsc', 'template_4tu90yn', form.current, 'yQ1T7k5-aRRbj9Mc7')
             .then((result) => {
                 console.log(result.text);
             }, (error) => {
